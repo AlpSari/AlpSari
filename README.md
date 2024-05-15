@@ -17,4 +17,4 @@ I'm an algorithm engineer passionate about Bayesian information processing and m
 
 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/alp-sari/)
 
-Feel free to give ideas our reach for collaboration. Let's connect and innovate together!
+Feel free to give ideas or reach for collaboration. Let's connect and innovate together!
